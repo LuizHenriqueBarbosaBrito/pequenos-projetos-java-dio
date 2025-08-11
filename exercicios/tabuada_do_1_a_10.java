@@ -8,6 +8,7 @@ public class tabuada_do_1_a_10 {
         for (int i = 1; i <= 10; i++) {
             int result = number * i;
             System.out.println(number + "x" + i + "=" + result);
+
         }
     }
 }
